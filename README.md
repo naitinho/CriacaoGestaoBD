@@ -54,3 +54,18 @@ organização de dados relevantes para as operações da empresa.
 4. **FUNCIONARIOS ↔ ALOCACOES_RECURSOS** (1:N)  
    Um funcionário pode estar alocado em vários projetos, mas cada alocação pertence a um único funcionário.
 
+# Instruções
+
+Conecte-se ao Oracle SQL*Plus ou SQL Developer como usuário com privilégios adequados
+
+```sql
+Execute o script de estrutura:
+
+@estrutura.sql
+
+-- Execute o script de dados:
+
+@dados.sql
+
+```sql
+
