@@ -1,4 +1,5 @@
-# CriacaoGestaoBD
+# Criação e Gestão de um Banco de Dados
+
 **Group 4 - Gestão de Projetos**
 
 # Objetivo
