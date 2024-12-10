@@ -58,14 +58,13 @@ organização de dados relevantes para as operações da empresa.
 
 Conecte-se ao Oracle SQL*Plus ou SQL Developer como usuário com privilégios adequados
 
-```sql
-Execute o script de estrutura:
+ ```sql
+-- Execute o script de estrutura:
 
-@estrutura.sql
+@DDLGrupo4.sql
 
 -- Execute o script de dados:
 
-@dados.sql
+@DMLGrupo4.sql
 
-```sql
 
